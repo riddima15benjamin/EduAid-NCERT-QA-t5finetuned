@@ -1,0 +1,1305 @@
+[
+      {
+        "question_code": "1.1.1",
+        "question": "Why is reproduction essential for organisms?",
+        "answer": "Reproduction is the ability of living organisms to produce a young one similar to itself. It ensures continuity of a species generation after generation. Reproduction introduces variation in the organisms. Useful variations are essential for adaptation and evolution. Therefore, it is essential for organisms."
+      },
+      {
+        "question_code": "1.1.2",
+        "question": "Which is a better mode of reproduction sexual or asexual? Why?",
+        "answer": "Sexual reproduction is a better mode of reproduction because of the following reasons:\n\n1. **Variation**: Since fusion of gametes from different parents occur during sexual reproduction, genetic recombination takes place causing variations.\n2. **Evolution**: Variation plays a major role in natural selection and evolution.\n3. **Adaptation**: Offspring produced through sexual reproduction adapt better to changing environmental conditions.\n4. **Vigour and Vitality**: Genetic recombination and interaction during sexual reproduction provide vigour and vitality to offspring."
+      },
+      {
+        "question_code": "1.1.3",
+        "question": "Why is the offspring formed by asexual reproduction referred to as clone?",
+        "answer": "Asexual reproduction is a type of reproduction in which a single individual is capable of producing offspring. These offspring are not only genetically and morphologically similar to one another but also to their parent. Clone is the term given to individuals that are genetically and morphologically identical. Thus, the offspring produced by asexual reproduction are called clones."
+      },
+      {
+        "question_code": "1.1.4",
+        "question": "Offsprings formed due to sexual reproduction have better chances of survival. Why? Is this statement always true?",
+        "answer": "The offspring obtained from sexual reproduction have better chances of survival because their genetic material is derived from both parents, leading to variations that promote species evolution. This statement is generally true, as sexual reproduction enables offspring to adapt better to changing environmental conditions. Genetic recombination and interaction during sexual reproduction provide vigour and vitality to the offspring."
+      },
+      {
+        "question_code": "1.1.5",
+        "question": "How does the progeny formed from asexual reproduction differ from those formed by sexual reproduction?",
+        "answer": "Asexual reproduction involves a single parent without the formation and fusion of gametes. It includes only mitotic cell division, resulting in daughter cells that are genetically identical to the parent. In contrast, sexual reproduction involves two parents (male and female) and meiotic cell divisions, producing haploid nuclei that, upon fusion, result in genetically diverse offspring."
+      },
+      {
+        "question_code": "1.1.6",
+        "question": "Distinguish between asexual and sexual reproduction. Why is vegetative reproduction also considered as a type of asexual reproduction?",
+        "answer": "Asexual reproduction:\n- Involves a single parent.\n- Offspring are genetically identical (clones).\n- Occurs via mitotic division.\n\nSexual reproduction:\n- Involves two parents.\n- Offspring show genetic variation.\n- Occurs via meiotic division followed by fertilization.\n\nVegetative reproduction is considered a type of asexual reproduction because vegetative plant parts like rhizome, runner, sucker, tuber, and bulb are capable of producing offspring without the involvement of two parents."
+      },
+      {
+        "question_code": "1.1.7",
+        "question": "What is vegetative propagation? Give two suitable examples.",
+        "answer": "Vegetative propagation is the formation of new plants from vegetative units. The vegetative propagation units include runner, rhizome, sucker, tuber, offset, and bulb. These structures are called vegetative propagules.\n\nExamples:\n1. Modified tuberous roots of sweet potato and dahlia can be propagated vegetatively.\n2. Small plants emerging from the buds (called eyes) of the potato tuber or from the rhizomes of banana and ginger."
+      },
+      {
+        "question_code": "1.1.8",
+        "question": "Define:\n(a) Juvenile phase\n(b) Reproductive phase\n(c) Senescent phase",
+        "answer": "(a) **Juvenile phase**: The period of growth before an organism reaches reproductive maturity.\n(b) **Reproductive phase**: The phase when an organism becomes capable of producing offspring.\n(c) **Senescent phase**: The phase after the reproductive stage, characterized by aging and gradual deterioration."
+      },
+      {
+        "question_code": "1.1.9",
+        "question": "Higher organisms have resorted to sexual reproduction in spite of its complexity. Why?",
+        "answer": "Higher organisms have adopted sexual reproduction despite its complexity because it ensures genetic variation, promotes evolution, and enables survival under changing environmental conditions."
+      },
+      {
+        "question_code": "1.1.10",
+        "question": "Explain why meiosis and gametogenesis are always interlinked?",
+        "answer": "Gametogenesis is the formation of haploid gametes (male and female). Since gametes must be haploid, they are formed through meiosis, which reduces chromosome numbers by half. Thus, meiosis and gametogenesis are always interlinked."
+      },
+      {
+        "question_code": "1.1.11",
+        "question": "Identify each part in a flowering plant and write whether it is haploid (n) or diploid (2n).",
+        "answer": "(a) Ovary – 2n\n(b) Anther – 2n\n(c) Egg – n\n(d) Pollen – n\n(e) Male gamete – n\n(f) Zygote – 2n"
+      },
+      {
+        "question_code": "1.1.12",
+        "question": "Define external fertilization. Mention its disadvantages.",
+        "answer": "External fertilization occurs when gametes fuse outside the body, usually in aquatic environments (e.g., fish, amphibians). \n\nDisadvantages:\n1. Requires water for fertilization.\n2. Dependent on synchronous gamete release.\n3. No protection for young ones, leading to high mortality."
+      },
+      {
+        "question_code": "1.1.13",
+        "question": "Differentiate between a zoospore and a zygote.",
+        "answer": "A **zoospore** is a motile, flagellated spore produced asexually, whereas a **zygote** is a non-motile, diploid cell formed by gamete fusion during sexual reproduction."
+      },
+      {
+        "question_code": "1.1.14",
+        "question": "Differentiate between gametogenesis and embryogenesis.",
+        "answer": "Gametogenesis refers to the formation of haploid gametes via meiosis, whereas embryogenesis is the development of an embryo from a fertilized zygote."
+      },
+      {
+        "question_code": "1.1.15",
+        "question": "Describe the post-fertilization changes in a flower.",
+        "answer": "After fertilization, the following changes occur:\n1. **Zygote formation**: The fertilized egg develops into an embryo.\n2. **Endosperm formation**: Provides nutrients to the developing embryo.\n3. **Ovule transformation**: Becomes the seed.\n4. **Ovary transformation**: Develops into the fruit.\n5. **Petals, sepals, and stamens wither**: Only the ovary remains as the fruit."
+      },
+    
+  
+        {
+            "question_code": "2.1.1",
+            "question": "Name the parts of an angiosperm flower in which development of male and female gametophytes take place.",
+            "answer": "The male gametophyte develops in the anther, and the female gametophyte develops in the ovule."
+        },
+        {
+            "question_code": "2.1.2",
+            "question": "Differentiate between microsporogenesis and megasporogenesis. Which type of cell division occurs during these events? Name the structures formed at the end of these two events?",
+            "answer": "Microsporogenesis is the formation of male gametophytes (pollen grains) from microspores through meiotic division. Megasporogenesis is the formation of female gametophytes (embryo sac) from a megaspore through meiotic division. Microsporogenesis results in pollen grains, while megasporogenesis results in the embryo sac."
+        },
+        {
+            "question_code": "2.1.3",
+            "question": "Arrange the following terms in the correct development sequence: Pollen grain, sporogenous tissue, microspore tetrad, pollen mother cell, male gametes.",
+            "answer": "Sporogenous tissue → Pollen mother cell → Microspore tetrad → Pollen grain → Male gametes."
+        },
+        {
+            "question_code": "2.1.4",
+            "question": "With a neat, labelled diagram, describe the parts of a typical angiosperm ovule.",
+            "answer": "The angiosperm ovule consists of the following parts: integuments, nucellus, chalaza, micropyle, and funicle. The embryo sac or female gametophyte is located within the nucellus."
+        },
+        {
+            "question_code": "2.1.5",
+            "question": "What is meant by monosporic development of female gametophyte?",
+            "answer": "Monosporic development refers to the development of the female gametophyte from a single functional megaspore."
+        },
+        {
+            "question_code": "2.1.6",
+            "question": "With a neat diagram, explain the 7-celled, 8-nucleate nature of the female gametophyte.",
+            "answer": "Embryo sac (or female gametophyte) is formed by three successive mitotic divisions that take place in the nucleus of the megaspore. The nucleus of the functional megaspore divides meiotically to form two nuclei which move to the opposite poles, forming the 2-nucleate embryo sac. Two more sequential mitotic nuclear divisions result in the formation of the 4-nucleate and later the 8-nucleate stages of the embryo sac. After the 8-nucleate stage, cell walls are laid down leading to the organisation of the typical female gametophyte or embryo sac. Six of the eight nuclei are grouped together at micropylar and chalazal ends and form the egg apparatus and antipodals respectively. The large central cell left over with two polar nuclei. Thus, a typical female gametophyte consists of 7 cells with 8 nuclei."
+        },
+        {
+            "question_code": "2.1.7",
+            "question": "What are chasmogamous flowers? Can cross-pollination occur in cleistogamous flowers? Give reasons for your answer.",
+            "answer": "Chasmogamous flowers are those that open up to expose their reproductive organs for cross-pollination. Cross-pollination cannot occur in cleistogamous flowers, as they remain closed and self-pollination takes place."
+        },
+        {
+            "question_code": "2.1.8",
+            "question": "Mention two strategies evolved to prevent self-pollination in flowers.",
+            "answer": "1) Development of unisexual flowers; 2) Temporal separation of male and female reproductive organs (dichogamy)."
+        },
+        {
+            "question_code": "2.1.9",
+            "question": "What is self-incompatibility? Why does self-pollination not lead to seed formation in self-incompatible species?",
+            "answer": "Self-incompatibility is a genetic mechanism that prevents self-pollination. In self-incompatible species, pollen from the same plant cannot fertilize its own ovules due to biochemical barriers."
+        },
+        {
+            "question_code": "2.1.10",
+            "question": "What is bagging technique? How is it useful in a plant breeding programme?",
+            "answer": "The bagging technique involves covering the flower with a bag to prevent cross-pollination or contamination with unwanted pollen, ensuring controlled breeding."
+        },
+        {
+            "question_code": "2.1.11",
+            "question": "What is triple fusion? Where and how does it take place? Name the nuclei involved in triple fusion.",
+            "answer": "Triple fusion is the fusion of one male gamete with the two polar nuclei of the central cell in the embryo sac, forming a triploid primary endosperm nucleus. It takes place in the embryo sac during fertilization."
+        },
+        {
+            "question_code": "2.1.12",
+            "question": "Why do you think the zygote is dormant for sometime in a fertilized ovule?",
+            "answer": "The zygote is dormant to allow the proper development of endosperm, which will nourish the developing embryo."
+        },
+        {
+            "question_code": "2.1.13",
+            "question": "Differentiate between: (a) hypocotyl and epicotyl; (b) coleoptile and coleorrhiza; (c) integument and testa; (d) perisperm and pericarp.",
+            "answer": {
+                "(a)": "Hypocotyl is the portion of the stem below the cotyledons, while epicotyl is the part above the cotyledons.",
+                "(b)": "Coleoptile is a protective sheath around the shoot tip in monocots, while coleorrhiza is a protective covering around the root tip in monocots.",
+                "(c)": "Integument is the outer covering of the ovule, while testa is the seed coat formed from the integument after fertilization.",
+                "(d)": "Perisperm is the tissue derived from the nucellus, which stores food, while pericarp is the fruit wall derived from the ovary wall."
+            }
+        },
+        {
+            "question_code": "2.1.14",
+            "question": "Why is apple called a false fruit? Which part(s) of the flower forms the fruit?",
+            "answer": "Apple is called a false fruit because the fleshy part is derived from the receptacle rather than the ovary. The ovary forms the seed inside the fruit."
+        },
+        {
+            "question_code": "2.1.15",
+            "question": "What is meant by emasculation? When and why does a plant breeder employ this technique?",
+            "answer": "Emasculation is the removal of anthers from a flower to prevent self-pollination. It is done before cross-pollination in controlled breeding programs."
+        },
+        {
+            "question_code": "2.1.16",
+            "question": "If one can induce parthenocarpy through the application of growth substances, which fruits would you select to induce parthenocarpy and why?",
+            "answer": "Fruits like bananas, cucumbers, and tomatoes are good candidates for parthenocarpy as they do not require fertilization for seedless fruit development."
+        },
+        {
+            "question_code": "2.1.17",
+            "question": "Explain the role of tapetum in the formation of pollen grain wall.",
+            "answer": "The tapetum provides nutrients to developing pollen grains and aids in the formation of the pollen grain wall by secreting enzymes and other substances."
+        },
+        {
+            "question_code": "2.1.18",
+            "question": "What is apomixis and what is its importance?",
+            "answer": "Apomixis is asexual reproduction through seeds without fertilization. It allows the production of genetically identical offspring and is useful in plant breeding."
+        },
+        {
+            "question_code": "3.1.1",
+            "question": "What do you think is the significance of reproductive health in a society?",
+            "answer": "Reproductive health is significant because it promotes awareness of birth control, sexually transmitted diseases, the importance of breastfeeding, post-natal care, and equal opportunities for both male and female children."
+        },
+        {
+            "question_code": "3.1.2",
+            "question": "Suggest the aspects of reproductive health which need to be given special attention in the present scenario.",
+            "answer": "Important aspects include sex education in schools, knowledge of birth control methods, care for pregnant mothers, and awareness of the consequences of uncontrolled population growth."
+        },
+        {
+            "question_code": "3.1.3",
+            "question": "Is sex education necessary in schools? Why?",
+            "answer": "Yes, it is necessary to provide correct information, discourage myths, and promote safe sexual practices to help adolescents lead healthy reproductive lives."
+        },
+        {
+            "question_code": "3.1.4",
+            "question": "Do you think that reproductive health in our country has improved in the past 50 years? If yes, mention some such areas of improvement.",
+            "answer": "Yes, improvements include child immunization, maternity and child health, contraceptive use, and family planning initiatives."
+        },
+        {
+            "question_code": "3.1.5",
+            "question": "What are the suggested reasons for population explosion?",
+            "answer": "Reasons include improved health facilities, lower death rates, and an increase in people in the reproductive age."
+        },
+        {
+            "question_code": "3.1.6",
+            "question": "Is the use of contraceptives justified? Give reasons.",
+            "answer": "Yes, contraceptives are justified to control population growth and reduce birth rates. They should be used in consultation with doctors."
+        },
+        {
+            "question_code": "3.1.7",
+            "question": "Removal of gonads cannot be considered as a contraceptive option. Why?",
+            "answer": "Removal of gonads leads to irreversible infertility and reliance on hormones, making it unsuitable as a contraceptive method."
+        },
+        {
+            "question_code": "3.1.8",
+            "question": "Amniocentesis for sex determination is banned in our country. Is this ban necessary? Comment.",
+            "answer": "Yes, the ban is necessary to prevent female foeticide. Amniocentesis should be used for detecting genetic disorders, not sex determination."
+        },
+        {
+            "question_code": "3.1.9",
+            "question": "Suggest some methods to assist infertile couples to have children.",
+            "answer": "Methods include in vitro fertilization, gamete intra-fallopian transfer, intracytoplasmic sperm injection, and artificial insemination."
+        },
+        {
+            "question_code": "3.1.10",
+            "question": "What are the measures one has to take to prevent contracting STDs?",
+            "answer": "Measures include avoiding sex with unknown or multiple partners, using condoms, seeking medical help for early diagnosis, and educating at-risk individuals."
+        },
+        {
+            "question_code": "3.2.1",
+            "question": "State True/False with explanation: (a) Abortions could happen spontaneously too.",
+            "answer": "True. Abortions can occur spontaneously due to various factors like genetic abnormalities, maternal health issues, or environmental conditions."
+        },
+        {
+            "question_code": "3.2.2",
+            "question": "State True/False with explanation: (b) Infertility is always due to defects in the female partner.",
+            "answer": "False. Infertility can be due to problems in either the male or female partner, or both."
+        },
+        {
+            "question_code": "3.2.3",
+            "question": "State True/False with explanation: (c) Complete lactation could help as a natural method of contraception.",
+            "answer": "True. Lactation is a natural contraceptive method, but it is effective only in the first few months post-delivery when breastfeeding is exclusive."
+        },
+        {
+            "question_code": "3.2.4",
+            "question": "State True/False with explanation: (d) Creating awareness about sex-related aspects improves reproductive health.",
+            "answer": "True. Raising awareness about sexual health helps in preventing STDs, unwanted pregnancies, and improving overall reproductive health."
+        },
+        {
+            "question_code": "3.3.1",
+            "question": "Correct the following statements: (a) Surgical methods of contraception prevent gamete formation.",
+            "answer": "False. Surgical methods of contraception prevent the transport of gametes, not their formation."
+        },
+        {
+            "question_code": "3.3.2",
+            "question": "Correct the following statements: (b) All sexually transmitted diseases are completely curable.",
+            "answer": "False. While many STDs are treatable, diseases like HIV/AIDS and genital herpes are not curable."
+        },
+        {
+            "question_code": "3.3.3",
+            "question": "Correct the following statements: (c) Oral pills are very popular contraceptives, among the rural women.",
+            "answer": "False. Oral pills are more commonly used by educated women in urban areas."
+        },
+        {
+            "question_code": "3.3.4",
+            "question": "Correct the following statements: (d) In E.T. techniques, embryos are always transferred into the uterus.",
+            "answer": "False. In E.T. techniques, embryos may be transferred into the uterus or fallopian tube, depending on the method."
+        },
+            {
+                "question_code": "4.1.1",
+                "question": "What do you think is the significance of reproductive health in a society?",
+                "answer": "Reproductive health is significant because it promotes awareness of birth control, sexually transmitted diseases, the importance of breastfeeding, post-natal care, and equal opportunities for both male and female children."
+            },
+            {
+                "question_code": "4.1.2",
+                "question": "Suggest the aspects of reproductive health which need to be given special attention in the present scenario.",
+                "answer": "Important aspects include sex education in schools, knowledge of birth control methods, care for pregnant mothers, and awareness of the consequences of uncontrolled population growth."
+            },
+            {
+                "question_code": "4.1.3",
+                "question": "Is sex education necessary in schools? Why?",
+                "answer": "Yes, it is necessary to provide correct information, discourage myths, and promote safe sexual practices to help adolescents lead healthy reproductive lives."
+            },
+            {
+                "question_code": "4.1.4",
+                "question": "Do you think that reproductive health in our country has improved in the past 50 years? If yes, mention some such areas of improvement.",
+                "answer": "Yes, improvements include child immunization, maternity and child health, contraceptive use, and family planning initiatives."
+            },
+            {
+                "question_code": "4.1.5",
+                "question": "What are the suggested reasons for population explosion?",
+                "answer": "Reasons include improved health facilities, lower death rates, and an increase in people in the reproductive age."
+            },
+            {
+                "question_code": "4.1.6",
+                "question": "Is the use of contraceptives justified? Give reasons.",
+                "answer": "Yes, contraceptives are justified to control population growth and reduce birth rates. They should be used in consultation with doctors."
+            },
+            {
+                "question_code": "4.1.7",
+                "question": "Removal of gonads cannot be considered as a contraceptive option. Why?",
+                "answer": "Removal of gonads leads to irreversible infertility and reliance on hormones, making it unsuitable as a contraceptive method."
+            },
+            {
+                "question_code": "4.1.8",
+                "question": "Amniocentesis for sex determination is banned in our country. Is this ban necessary? Comment.",
+                "answer": "Yes, the ban is necessary to prevent female foeticide. Amniocentesis should be used for detecting genetic disorders, not sex determination."
+            },
+            {
+                "question_code": "4.1.9",
+                "question": "Suggest some methods to assist infertile couples to have children.",
+                "answer": "Methods include in vitro fertilization, gamete intra-fallopian transfer, intracytoplasmic sperm injection, and artificial insemination."
+            },
+            {
+                "question_code": "4.1.10",
+                "question": "What are the measures one has to take to prevent contracting STDs?",
+                "answer": "Measures include avoiding sex with unknown or multiple partners, using condoms, seeking medical help for early diagnosis, and educating at-risk individuals."
+            },
+            {
+                "question_code": "4.2.1",
+                "question": "State True/False with explanation: (a) Abortions could happen spontaneously too.",
+                "answer": "True. Abortions can occur spontaneously due to various factors like genetic abnormalities, maternal health issues, or environmental conditions."
+            },
+            {
+                "question_code": "4.2.2",
+                "question": "State True/False with explanation: (b) Infertility is always due to defects in the female partner.",
+                "answer": "False. Infertility can be due to problems in either the male or female partner, or both."
+            },
+            {
+                "question_code": "4.2.3",
+                "question": "State True/False with explanation: (c) Complete lactation could help as a natural method of contraception.",
+                "answer": "True. Lactation is a natural contraceptive method, but it is effective only in the first few months post-delivery when breastfeeding is exclusive."
+            },
+            {
+                "question_code": "4.2.4",
+                "question": "State True/False with explanation: (d) Creating awareness about sex-related aspects improves reproductive health.",
+                "answer": "True. Raising awareness about sexual health helps in preventing STDs, unwanted pregnancies, and improving overall reproductive health."
+            },
+            {
+                "question_code": "4.3.1",
+                "question": "Correct the following statements: (a) Surgical methods of contraception prevent gamete formation.",
+                "answer": "False. Surgical methods of contraception prevent the transport of gametes, not their formation."
+            },
+            {
+                "question_code": "4.3.2",
+                "question": "Correct the following statements: (b) All sexually transmitted diseases are completely curable.",
+                "answer": "False. While many STDs are treatable, diseases like HIV/AIDS and genital herpes are not curable."
+            },
+            {
+                "question_code": "4.3.3",
+                "question": "Correct the following statements: (c) Oral pills are very popular contraceptives, among the rural women.",
+                "answer": "False. Oral pills are more commonly used by educated women in urban areas."
+            },
+            {
+                "question_code": "4.3.4",
+                "question": "Correct the following statements: (d) In E.T. techniques, embryos are always transferred into the uterus.",
+                "answer": "False. In E.T. techniques, embryos may be transferred into the uterus or fallopian tube, depending on the method."
+            },
+                {
+                    "question_code": "5.1.1",
+                    "question": "What are the primary functions of the male reproductive system?",
+                    "answer": "The male reproductive system is responsible for the production of sperm, the transfer of sperm to the female reproductive system, and the secretion of hormones like testosterone."
+                },
+                {
+                    "question_code": "5.1.2",
+                    "question": "Describe the structure of the human male reproductive system.",
+                    "answer": "The male reproductive system consists of testes (which produce sperm and testosterone), epididymis (where sperm mature), vas deferens (which carries sperm), seminal vesicles (which secrete fluids for sperm), prostate gland, bulbourethral glands, and the penis."
+                },
+                {
+                    "question_code": "5.1.3",
+                    "question": "What are the primary functions of the female reproductive system?",
+                    "answer": "The female reproductive system's primary functions include the production of eggs (ova), providing a site for fertilization, and nurturing the developing fetus during pregnancy. It also produces hormones like estrogen and progesterone."
+                },
+                {
+                    "question_code": "5.1.4",
+                    "question": "Describe the structure of the human female reproductive system.",
+                    "answer": "The female reproductive system includes ovaries (which produce eggs and hormones), fallopian tubes (where fertilization occurs), uterus (where the fertilized egg implants and grows), cervix, and vagina."
+                },
+                {
+                    "question_code": "5.1.5",
+                    "question": "What is ovulation? Describe its process.",
+                    "answer": "Ovulation is the release of a mature egg from the ovary. It occurs roughly in the middle of the menstrual cycle, when a follicle in the ovary ruptures and releases the egg, which then travels to the fallopian tube for potential fertilization."
+                },
+                {
+                    "question_code": "5.1.6",
+                    "question": "What is the menstrual cycle? Describe its phases.",
+                    "answer": "The menstrual cycle is a monthly process in which the body prepares for pregnancy. It has four phases: the menstrual phase (shedding of the uterine lining), the follicular phase (growth of the egg and thickening of the endometrium), ovulation (release of the egg), and the luteal phase (preparation for pregnancy)."
+                },
+                {
+                    "question_code": "5.1.7",
+                    "question": "What is fertilization? Explain the process.",
+                    "answer": "Fertilization is the union of a sperm cell and an egg cell, typically occurring in the fallopian tube. After sperm enters the egg, their nuclei fuse to form a zygote, which will develop into an embryo."
+                },
+                {
+                    "question_code": "5.1.8",
+                    "question": "Explain the process of implantation of the fertilized egg.",
+                    "answer": "Implantation occurs when the fertilized egg (blastocyst) attaches to the thickened endometrium of the uterus. This marks the beginning of pregnancy, and the developing embryo starts receiving nutrients from the mother."
+                },
+                {
+                    "question_code": "5.1.9",
+                    "question": "What is pregnancy? Describe its stages.",
+                    "answer": "Pregnancy is the condition of carrying a developing embryo or fetus within the female reproductive system. It consists of three trimesters: the first trimester (embryonic development), the second trimester (fetal development), and the third trimester (preparation for birth)."
+                },
+                {
+                    "question_code": "5.1.10",
+                    "question": "What are the methods of contraception? Explain each method briefly.",
+                    "answer": "Contraceptive methods include hormonal methods (like birth control pills), barrier methods (like condoms), intrauterine devices (IUDs), permanent methods (like sterilization), and natural methods (like rhythm method). Each method prevents pregnancy through different mechanisms."
+                },
+                {
+                    "question_code": "5.2.1",
+                    "question": "State True/False with explanation: (a) A woman can become pregnant without ovulating.",
+                    "answer": "False. Ovulation is essential for pregnancy, as it is when the egg is released for fertilization."
+                },
+                {
+                    "question_code": "5.2.2",
+                    "question": "State True/False with explanation: (b) Sperm production continues throughout a man's life.",
+                    "answer": "True. Unlike females, males produce sperm continuously after puberty, though the quality and quantity may decrease with age."
+                },
+                {
+                    "question_code": "5.2.3",
+                    "question": "State True/False with explanation: (c) Birth control pills prevent ovulation.",
+                    "answer": "True. Birth control pills contain hormones that inhibit ovulation, preventing the release of eggs."
+                },
+                {
+                    "question_code": "5.2.4",
+                    "question": "State True/False with explanation: (d) A woman can only get pregnant during her menstrual period.",
+                    "answer": "False. A woman is most fertile during ovulation, which typically occurs in the middle of her menstrual cycle, not during her period."
+                },
+                {
+                    "question_code": "5.3.1",
+                    "question": "Correct the following statements: (a) The male reproductive system includes the vagina.",
+                    "answer": "False. The male reproductive system does not include the vagina; it consists of the testes, epididymis, vas deferens, and accessory glands."
+                },
+                {
+                    "question_code": "5.3.2",
+                    "question": "Correct the following statements: (b) The egg is fertilized in the uterus.",
+                    "answer": "False. Fertilization of the egg occurs in the fallopian tube, not in the uterus."
+                },
+                {
+                    "question_code": "5.3.3",
+                    "question": "Correct the following statements: (c) Ovulation occurs at the end of the menstrual cycle.",
+                    "answer": "False. Ovulation typically occurs around the middle of the menstrual cycle, not at the end."
+                },
+                {
+                    "question_code": "5.3.4",
+                    "question": "Correct the following statements: (d) The menstrual cycle lasts 28 days for every woman.",
+                    "answer": "False. The menstrual cycle can vary in length from woman to woman, but an average of 28 days is common."
+                },
+                    {
+                        "question_code": "6.1.1",
+                        "question": "What is the significance of human health in society?",
+                        "answer": "Human health is significant as it determines the overall well-being of individuals, improves productivity, enhances the quality of life, and reduces the burden of diseases on the healthcare system."
+                    },
+                    {
+                        "question_code": "6.1.2",
+                        "question": "Describe the factors influencing human health.",
+                        "answer": "Factors influencing human health include genetic factors, environmental factors, lifestyle choices, socio-economic conditions, access to healthcare, and the availability of clean water and sanitation."
+                    },
+                    {
+                        "question_code": "6.1.3",
+                        "question": "What are the common diseases affecting the human body?",
+                        "answer": "Common diseases affecting the human body include infectious diseases (e.g., malaria, tuberculosis), non-communicable diseases (e.g., heart disease, diabetes), lifestyle-related diseases (e.g., obesity), and genetic disorders (e.g., sickle cell anemia)."
+                    },
+                    {
+                        "question_code": "6.1.4",
+                        "question": "What is the role of immunity in maintaining human health?",
+                        "answer": "Immunity protects the body from infections by recognizing and attacking foreign pathogens. It can be innate (present from birth) or acquired (developed after exposure to pathogens or through vaccination)."
+                    },
+                    {
+                        "question_code": "6.1.5",
+                        "question": "Explain the concept of vaccination.",
+                        "answer": "Vaccination is the process of introducing a weakened or inactive form of a pathogen into the body to stimulate the immune system to produce antibodies, providing protection against future infections by that pathogen."
+                    },
+                    {
+                        "question_code": "6.1.6",
+                        "question": "What is the role of hygiene in preventing diseases?",
+                        "answer": "Hygiene plays a key role in disease prevention by reducing the exposure to harmful microorganisms. It involves practices like washing hands, maintaining clean surroundings, and proper sanitation to minimize infections."
+                    },
+                    {
+                        "question_code": "6.1.7",
+                        "question": "What are the causes and symptoms of tuberculosis?",
+                        "answer": "Tuberculosis (TB) is caused by the bacterium Mycobacterium tuberculosis. Symptoms include a persistent cough, chest pain, coughing up blood, fatigue, weight loss, and fever."
+                    },
+                    {
+                        "question_code": "6.1.8",
+                        "question": "What are the causes of cancer? How can cancer be prevented?",
+                        "answer": "Cancer is caused by mutations in genes that control cell growth, leading to uncontrolled cell division. Risk factors include smoking, poor diet, alcohol, and exposure to carcinogens. Prevention includes avoiding tobacco, maintaining a healthy diet, regular exercise, and reducing exposure to known carcinogens."
+                    },
+                    {
+                        "question_code": "6.1.9",
+                        "question": "What are the various types of immunity?",
+                        "answer": "There are two main types of immunity: innate immunity (the body's first line of defense, nonspecific) and acquired immunity (specific, developed after exposure to pathogens or through vaccination). Acquired immunity includes humoral immunity (antibodies) and cell-mediated immunity (T-cells)."
+                    },
+                    {
+                        "question_code": "6.1.10",
+                        "question": "How does the human body defend itself against infections?",
+                        "answer": "The human body defends itself against infections through physical barriers (skin, mucous membranes), immune responses (innate and acquired immunity), and inflammation to isolate and eliminate pathogens."
+                    },
+                    {
+                        "question_code": "6.2.1",
+                        "question": "State True/False with explanation: (a) Vaccination is only effective after infection.",
+                        "answer": "False. Vaccination is effective before infection by stimulating the immune system to recognize and fight pathogens, preventing future infection."
+                    },
+                    {
+                        "question_code": "6.2.2",
+                        "question": "State True/False with explanation: (b) Cancer is always inherited.",
+                        "answer": "False. While some types of cancer can be inherited due to genetic mutations, many cases are caused by environmental factors, lifestyle choices, or random mutations."
+                    },
+                    {
+                        "question_code": "6.2.3",
+                        "question": "State True/False with explanation: (c) Washing hands can prevent many diseases.",
+                        "answer": "True. Handwashing helps to remove harmful microorganisms from the hands, reducing the risk of transmitting infections."
+                    },
+                    {
+                        "question_code": "6.2.4",
+                        "question": "State True/False with explanation: (d) All cancers are treatable.",
+                        "answer": "False. Not all cancers are treatable, and the success of treatment depends on the type, stage, and location of the cancer."
+                    },
+                    {
+                        "question_code": "6.3.1",
+                        "question": "Correct the following statements: (a) Tuberculosis is caused by a virus.",
+                        "answer": "False. Tuberculosis is caused by a bacterium, Mycobacterium tuberculosis, not a virus."
+                    },
+                    {
+                        "question_code": "6.3.2",
+                        "question": "Correct the following statements: (b) Cancer can always be prevented by healthy eating.",
+                        "answer": "False. While healthy eating can reduce the risk of certain cancers, other factors such as genetics, environmental exposure, and lifestyle choices also play a significant role in cancer development."
+                    },
+                    {
+                        "question_code": "6.3.3",
+                        "question": "Correct the following statements: (c) Hygiene does not play a role in disease prevention.",
+                        "answer": "False. Hygiene is crucial for disease prevention as it helps to minimize exposure to harmful pathogens, reducing the likelihood of infections."
+                    },
+                    {
+                        "question_code": "6.3.4",
+                        "question": "Correct the following statements: (d) Only antibiotics can treat all infections.",
+                        "answer": "False. Antibiotics are effective only against bacterial infections and not viral infections. Other treatments like antiviral drugs are required for viral infections."
+                    },
+                        {
+                            "question_code": "7.1.1",
+                            "question": "What is the significance of the circulatory system in the human body?",
+                            "answer": "The circulatory system is responsible for transporting oxygen, nutrients, hormones, and waste products to and from cells. It helps maintain homeostasis, regulate body temperature, and fight infections."
+                        },
+                        {
+                            "question_code": "7.1.2",
+                            "question": "Describe the structure of the human heart.",
+                            "answer": "The human heart is a muscular organ with four chambers: two atria and two ventricles. The right side pumps deoxygenated blood to the lungs, while the left side pumps oxygenated blood to the rest of the body."
+                        },
+                        {
+                            "question_code": "7.1.3",
+                            "question": "Explain the pathway of blood through the human heart.",
+                            "answer": "Deoxygenated blood from the body enters the right atrium, moves to the right ventricle, and is pumped to the lungs for oxygenation. Oxygenated blood returns to the left atrium, passes into the left ventricle, and is then pumped throughout the body."
+                        },
+                        {
+                            "question_code": "7.1.4",
+                            "question": "What is the role of the arteries, veins, and capillaries?",
+                            "answer": "Arteries carry oxygenated blood away from the heart to the tissues, veins return deoxygenated blood to the heart, and capillaries facilitate the exchange of gases, nutrients, and waste between the blood and tissues."
+                        },
+                        {
+                            "question_code": "7.1.5",
+                            "question": "What is the importance of the circulatory system in the transport of hormones?",
+                            "answer": "The circulatory system plays a critical role in transporting hormones from endocrine glands to target organs, enabling regulation of various physiological processes such as growth, metabolism, and reproduction."
+                        },
+                        {
+                            "question_code": "7.1.6",
+                            "question": "What is the function of blood?",
+                            "answer": "Blood transports oxygen, nutrients, and waste products. It also plays a key role in immunity, temperature regulation, and maintaining the pH balance of the body."
+                        },
+                        {
+                            "question_code": "7.1.7",
+                            "question": "Explain the process of blood clotting.",
+                            "answer": "Blood clotting is a process where platelets and proteins form a clot at the site of injury to prevent excessive bleeding. The clotting process involves the activation of clotting factors leading to the formation of fibrin, which traps blood cells to form a clot."
+                        },
+                        {
+                            "question_code": "7.1.8",
+                            "question": "What is hypertension and its causes?",
+                            "answer": "Hypertension, or high blood pressure, is a condition where the force of the blood against the walls of the arteries is too high. Causes include obesity, stress, lack of physical activity, excessive salt intake, smoking, and genetic factors."
+                        },
+                        {
+                            "question_code": "7.1.9",
+                            "question": "Describe the structure and function of red blood cells.",
+                            "answer": "Red blood cells (RBCs) are biconcave, disk-shaped cells that contain hemoglobin to carry oxygen. Their flexible structure allows them to squeeze through narrow blood vessels, delivering oxygen to tissues and removing carbon dioxide."
+                        },
+                        {
+                            "question_code": "7.1.10",
+                            "question": "What are the differences between arteries and veins?",
+                            "answer": "Arteries have thick, elastic walls and carry oxygenated blood away from the heart at high pressure, while veins have thinner walls, valves, and carry deoxygenated blood to the heart under lower pressure."
+                        },
+                        {
+                            "question_code": "7.2.1",
+                            "question": "State True/False with explanation: (a) The heart pumps blood only to the lungs.",
+                            "answer": "False. The heart pumps blood to both the lungs and the rest of the body. The right side pumps blood to the lungs, while the left side pumps oxygenated blood to the body."
+                        },
+                        {
+                            "question_code": "7.2.2",
+                            "question": "State True/False with explanation: (b) Veins carry oxygenated blood.",
+                            "answer": "False. Veins generally carry deoxygenated blood, except for the pulmonary vein, which carries oxygenated blood from the lungs to the heart."
+                        },
+                        {
+                            "question_code": "7.2.3",
+                            "question": "State True/False with explanation: (c) The circulatory system does not play a role in immune response.",
+                            "answer": "False. The circulatory system plays a role in immune response by transporting white blood cells and antibodies to sites of infection, aiding in the body's defense mechanisms."
+                        },
+                        {
+                            "question_code": "7.2.4",
+                            "question": "State True/False with explanation: (d) Blood clotting is only important in preventing infections.",
+                            "answer": "False. Blood clotting is crucial for stopping excessive bleeding after injury. It helps seal wounds and prevent blood loss, not just infection."
+                        },
+                        {
+                            "question_code": "7.3.1",
+                            "question": "Correct the following statements: (a) Blood is only involved in the transport of gases.",
+                            "answer": "False. Blood is involved in the transport of gases (oxygen and carbon dioxide), nutrients, hormones, waste products, and also plays a role in immunity and temperature regulation."
+                        },
+                        {
+                            "question_code": "7.3.2",
+                            "question": "Correct the following statements: (b) The heart pumps deoxygenated blood to the body.",
+                            "answer": "False. The heart pumps deoxygenated blood to the lungs through the right side and oxygenated blood to the body through the left side."
+                        },
+                        {
+                            "question_code": "7.3.3",
+                            "question": "Correct the following statements: (c) Veins carry blood at high pressure.",
+                            "answer": "False. Veins carry blood at low pressure and have valves to prevent backflow, unlike arteries that carry blood at high pressure."
+                        },
+                        {
+                            "question_code": "7.3.4",
+                            "question": "Correct the following statements: (d) Red blood cells do not contain hemoglobin.",
+                            "answer": "False. Red blood cells contain hemoglobin, a protein that binds oxygen, allowing RBCs to transport oxygen throughout the body."
+                        },
+                        
+                            {
+                                "question_code": "8.1.1",
+                                "question": "What is the significance of the digestive system in the human body?",
+                                "answer": "The digestive system is responsible for breaking down food into nutrients, which the body absorbs and uses for energy, growth, and cell repair. It also helps eliminate waste from the body."
+                            },
+                            {
+                                "question_code": "8.1.2",
+                                "question": "Describe the structure of the human digestive system.",
+                                "answer": "The human digestive system consists of the alimentary canal and accessory organs. The canal includes the mouth, esophagus, stomach, small intestine, large intestine, and anus. Accessory organs include the liver, pancreas, and salivary glands."
+                            },
+                            {
+                                "question_code": "8.1.3",
+                                "question": "Explain the process of digestion in the human body.",
+                                "answer": "Digestion begins in the mouth with the breakdown of food by saliva. It continues in the stomach, where gastric juices further break down food. In the small intestine, nutrients are absorbed into the bloodstream. The remaining waste passes to the large intestine and is excreted through the anus."
+                            },
+                            {
+                                "question_code": "8.1.4",
+                                "question": "What role does the liver play in digestion?",
+                                "answer": "The liver produces bile, which helps in the emulsification and digestion of fats. It also stores glycogen, detoxifies substances, and regulates metabolism."
+                            },
+                            {
+                                "question_code": "8.1.5",
+                                "question": "What are the functions of the pancreas in digestion?",
+                                "answer": "The pancreas secretes digestive enzymes (amylase, protease, lipase) into the small intestine to break down carbohydrates, proteins, and fats. It also produces insulin, which regulates blood sugar levels."
+                            },
+                            {
+                                "question_code": "8.1.6",
+                                "question": "Describe the process of absorption of nutrients in the small intestine.",
+                                "answer": "In the small intestine, nutrients are absorbed into the bloodstream through villi and microvilli. These structures increase the surface area for absorption of nutrients like glucose, amino acids, and fatty acids."
+                            },
+                            {
+                                "question_code": "8.1.7",
+                                "question": "What is the role of the large intestine in digestion?",
+                                "answer": "The large intestine absorbs water and electrolytes from the remaining indigestible food matter, converting it into solid waste for excretion. It also houses beneficial bacteria that help in the fermentation of undigested food."
+                            },
+                            {
+                                "question_code": "8.1.8",
+                                "question": "What are enzymes and their role in digestion?",
+                                "answer": "Enzymes are biological catalysts that speed up chemical reactions. In digestion, enzymes break down food molecules into smaller, absorbable components, such as carbohydrates into sugars, proteins into amino acids, and fats into fatty acids and glycerol."
+                            },
+                            {
+                                "question_code": "8.1.9",
+                                "question": "What is peristalsis and its function in digestion?",
+                                "answer": "Peristalsis is the wave-like muscle contractions that move food along the digestive tract. It helps push food through the esophagus, stomach, and intestines, aiding in the digestion and absorption process."
+                            },
+                            {
+                                "question_code": "8.1.10",
+                                "question": "Explain the difference between mechanical and chemical digestion.",
+                                "answer": "Mechanical digestion involves the physical breakdown of food (e.g., chewing, churning in the stomach), while chemical digestion involves enzymatic reactions that break down food molecules into smaller, absorbable nutrients."
+                            },
+                            {
+                                "question_code": "8.2.1",
+                                "question": "State True/False with explanation: (a) The stomach absorbs most of the nutrients.",
+                                "answer": "False. The stomach primarily breaks down food using gastric juices, but the majority of nutrient absorption occurs in the small intestine."
+                            },
+                            {
+                                "question_code": "8.2.2",
+                                "question": "State True/False with explanation: (b) The liver stores glycogen.",
+                                "answer": "True. The liver stores glycogen, which is a form of glucose that can be converted into energy when needed."
+                            },
+                            {
+                                "question_code": "8.2.3",
+                                "question": "State True/False with explanation: (c) Bile is produced by the pancreas.",
+                                "answer": "False. Bile is produced by the liver and stored in the gallbladder, not the pancreas."
+                            },
+                            {
+                                "question_code": "8.2.4",
+                                "question": "State True/False with explanation: (d) Enzymes are necessary for the chemical digestion of food.",
+                                "answer": "True. Enzymes are crucial for breaking down food molecules into smaller components that can be absorbed by the body."
+                            },
+                            {
+                                "question_code": "8.3.1",
+                                "question": "Correct the following statements: (a) The large intestine is primarily responsible for nutrient absorption.",
+                                "answer": "False. The small intestine is primarily responsible for nutrient absorption, while the large intestine absorbs water and electrolytes."
+                            },
+                            {
+                                "question_code": "8.3.2",
+                                "question": "Correct the following statements: (b) Mechanical digestion occurs in the small intestine.",
+                                "answer": "False. Mechanical digestion occurs in the mouth (chewing) and stomach (churning), while the small intestine is involved in chemical digestion and absorption."
+                            },
+                            {
+                                "question_code": "8.3.3",
+                                "question": "Correct the following statements: (c) The pancreas produces bile.",
+                                "answer": "False. The pancreas produces digestive enzymes, not bile. Bile is produced by the liver."
+                            },
+                            {
+                                "question_code": "8.3.4",
+                                "question": "Correct the following statements: (d) Peristalsis only occurs in the stomach.",
+                                "answer": "False. Peristalsis occurs throughout the digestive tract, including the esophagus, stomach, and intestines, to move food and waste."
+                            },
+                        
+                                
+                                  
+                                    {
+                                      "question_code": "9.1.1",
+                                      "question": "Explain in brief the role of animal husbandry in human welfare.",
+                                      "answer": "Animal husbandry deals with the caring, feeding, and management of domesticated animals. It includes poultry, farming, and fisheries. These animals provide food products such as meat, milk, eggs, and honey. Additionally, they produce useful substances like wool, silk, leather, and beeswax."
+                                    },
+                                    {
+                                      "question_code": "9.1.2",
+                                      "question": "If your family owned a dairy farm, what measures would you undertake to improve the quality and quantity of milk production?",
+                                      "answer": "To improve milk production, measures include: (i) Proper feeding of cattle with high-quality food, (ii) Maintaining a clean and hygienic environment, (iii) Providing proper medical care, (iv) Regular veterinary supervision, (v) Selecting high-yielding and disease-resistant breeds, and (vi) Ensuring good breeding practices."
+                                    },
+                                    {
+                                      "question_code": "9.1.3",
+                                      "question": "What is meant by the term ‘breed’? What are the objectives of animal breeding?",
+                                      "answer": "A breed is a group of animals related by descent and sharing similar characteristics such as appearance, size, and configuration. The objectives of animal breeding are: (i) To produce high-yielding varieties, (ii) To develop drought-resistant livestock, and (iii) To create disease-resistant livestock."
+                                    },
+                                    {
+                                      "question_code": "9.1.4",
+                                      "question": "Name the methods employed in animal breeding. According to you, which method is best? Why?",
+                                      "answer": "Methods of animal breeding include: (i) Inbreeding, (ii) Out-breeding, (iii) Cross-breeding, (iv) Interspecific hybridization, (v) Artificial insemination, and (vi) Multiple Ovulation Embryo Transfer (MOET). Cross-breeding is the best as it enhances superior traits of both breeds, resulting in fertile progeny without inbreeding depression."
+                                    },
+                                    {
+                                      "question_code": "9.1.5",
+                                      "question": "What is apiculture? How is it important in our lives?",
+                                      "answer": "Apiculture is the rearing of honeybees for honey production. It is important as honey is a nutritious food, and beeswax is widely used in industries. Honeybees also contribute to pollination, improving crop yield."
+                                    },
+                                    {
+                                      "question_code": "9.1.6",
+                                      "question": "Discuss the role of fishery in the enhancement of food production.",
+                                      "answer": "Fisheries contribute to food production by providing protein-rich fish flesh. Fish oil has medicinal value, and fish scales are used in pearl manufacturing. The fishing industry supports economic growth through the 'Blue Revolution,' similar to the 'Green Revolution' in agriculture."
+                                    },
+                                    {
+                                      "question_code": "9.1.7",
+                                      "question": "Briefly describe various steps involved in plant breeding.",
+                                      "answer": "Plant breeding involves: (i) Collection of genetic variability, (ii) Evaluation and selection of parents, (iii) Hybridization, (iv) Selection and testing of superior recombinants, and (v) Testing, release, and commercialization of new cultivars."
+                                    },
+                                    {
+                                      "question_code": "9.1.8",
+                                      "question": "Explain what is meant by biofortification.",
+                                      "answer": "Biofortification is the enhancement of nutritional quality in crops by increasing protein, fat, vitamins, and mineral content, thereby improving public health."
+                                    },
+                                    {
+                                      "question_code": "9.1.9",
+                                      "question": "Which part of the plant is best suited for making virus-free plants and why?",
+                                      "answer": "The apical and axillary meristems are best suited for virus-free plant production because their cells divide faster than viruses multiply. Viruses cannot invade newly formed meristematic cells, allowing recovery of healthy plants through micropropagation."
+                                    },
+                                    {
+                                      "question_code": "9.1.10",
+                                      "question": "What is the major advantage of producing plants by micropropagation?",
+                                      "answer": "Micropropagation is a faster method for mass production of plants. It produces genetically identical, disease-free plants."
+                                    },
+                                    {
+                                      "question_code": "9.1.11",
+                                      "question": "Find out the various components of the medium used for the propagation of an explant in vitro.",
+                                      "answer": "The components of the in vitro propagation medium include: (i) Sucrose (energy and carbon source), (ii) Inorganic salts, (iii) Vitamins, and (iv) Growth regulators (auxins and cytokinins)."
+                                    },
+                                    {
+                                      "question_code": "9.1.12",
+                                      "question": "Name any five hybrid varieties of crop plants which have been developed in India.",
+                                      "answer": "Hybrid varieties developed in India include: (i) Sonalika (wheat), (ii) Himgiri (wheat), (iii) Pusa Swarnim (mustard), (iv) Pusa Sem 2 (bean), and (v) Pusa Sawani (lady’s finger)."
+                                    }, 
+                                    
+                                        
+                                            {
+                                              "question_code": "10.1.1",
+                                              "question": "Bacteria cannot be seen with the naked eyes, but these can be seen with the help of a microscope. If you have to carry a sample from your home to your biology laboratory to demonstrate the presence of microbes under a microscope, which sample would you carry and why?",
+                                              "answer": "Soil sample/water sample as they are the natural habitat of micro-organisms and can be directly observed."
+                                            },
+                                            {
+                                              "question_code": "10.1.2",
+                                              "question": "Give examples to prove that microbes release gases during metabolism.",
+                                              "answer": "Dough used for making dosa and idli is fermented by bacteria, producing CO2. Swiss cheese has large holes due to CO2 release by Propionibacterium sharmanii."
+                                            },
+                                            {
+                                              "question_code": "10.1.3",
+                                              "question": "In which food would you find lactic acid bacteria? Mention some of their useful applications.",
+                                              "answer": "Milk, curd, and cheese contain lactic acid bacteria (LAB). LAB convert lactose into lactic acid and enhance vitamin B12. They also inhibit disease-causing microbes in the stomach."
+                                            },
+                                            {
+                                              "question_code": "10.1.4",
+                                              "question": "Name some traditional Indian foods made of wheat, rice and Bengal gram (or their products) which involve use of microbes.",
+                                              "answer": "Bread (Saccharomyces cerevisiae), dosa, upma, idli (Leuconostoc and Streptococcus species)."
+                                            },
+                                            {
+                                              "question_code": "10.1.5",
+                                              "question": "In which way have microbes played a major role in controlling diseases caused by harmful bacteria?",
+                                              "answer": "Microbes produce antibiotics (penicillin, tetracycline) and vaccines for diseases like TB and DPT."
+                                            },
+                                            {
+                                              "question_code": "10.1.6",
+                                              "question": "Name any two species of fungus, which are used in the production of antibiotics.",
+                                              "answer": "Penicillium chrysogenum, P. notatum (produce penicillin), Cephalosporium (produces cephalosporins)."
+                                            },
+                                            {
+                                              "question_code": "10.1.7",
+                                              "question": "What is sewage? In which way can sewage be harmful to us?",
+                                              "answer": "Sewage is wastewater from household and industry. It decreases aquatic flora and fauna, contaminates water, soil, and food, and spreads pathogenic bacteria."
+                                            },
+                                            {
+                                              "question_code": "10.1.8",
+                                              "question": "What is the key difference between primary and secondary sewage treatment?",
+                                              "answer": "Primary treatment is a physical process, secondary is a biological process, and tertiary is a chemical process."
+                                            },
+                                            {
+                                              "question_code": "10.1.9",
+                                              "question": "Do you think microbes can also be used as a source of energy? If yes, how?",
+                                              "answer": "Yes, microbes digest activated sludge anaerobically to generate biogas, which is an inflammable energy source."
+                                            },
+                                            {
+                                              "question_code": "10.1.10",
+                                              "question": "Microbes can be used to decrease the use of chemical fertilizers and pesticides. Explain how this can be accomplished.",
+                                              "answer": "By using biofertilizers such as Rhizobium (leguminous plants), sulfur-fixing bacteria, and hydrogen-fixing bacteria."
+                                            },
+                                            {
+                                              "question_code": "10.1.11",
+                                              "question": "Three water samples namely river water, untreated sewage water, and secondary effluent discharged from a sewage treatment plant were subjected to BOD test. The samples were labelled A, B, and C; but the laboratory attendant did not note which was which. The BOD values of the three samples A, B, and C were recorded as 20 mg/L, 8 mg/L, and 400 mg/L, respectively. Which sample of the water is most polluted? Can you assign the correct label to each assuming the river water is relatively clean?",
+                                              "answer": "Sample with BOD 400 mg/L is most polluted (B - untreated sewage). Sample with 8 mg/L is least polluted (A - river water). Sample with 20 mg/L is secondary effluent (C)."
+                                            },
+                                            {
+                                              "question_code": "10.1.12",
+                                              "question": "Find out the name of the microbes from which cyclosporin A (an immunosuppressive drug) and statins (blood cholesterol lowering agents) are obtained.",
+                                              "answer": "Cyclosporin A - Trichoderma polysporum, Statins - Monascus purpureus."
+                                            },
+                                            {
+                                              "question_code": "10.1.13",
+                                              "question": "Find out the role of microbes in the following and discuss it with your teacher: (a) Single cell protein (SCP) (b) Soil",
+                                              "answer": "(a) SCP - Microbial yield rich in protein, e.g., Pseudomonas with 69% protein. (b) Soil - Microbes enrich soil through humification, biofertilization, and biopesticides."
+                                            },
+                                            {
+                                              "question_code": "10.1.14",
+                                              "question": "Arrange the following in the decreasing order (most important first) of their importance, for the welfare of human society. Give reasons for your answer. Biogas, Citric acid, Penicillin, and Curd.",
+                                              "answer": "Order: Penicillin > Biogas > Curd > Citric acid. Penicillin has medicinal value, biogas is an energy source, curd is nutritious, and citric acid has industrial use."
+                                            },
+                                            {
+                                              "question_code": "10.1.15",
+                                              "question": "How do biofertilizers enrich the fertility of the soil?",
+                                              "answer": "Biofertilizers replenish lost nutrients (N, P, Fe, S), add micronutrients, produce humus, and act as scavengers."
+                                            },
+                                            
+                                                {
+                                                  "question_code": "11.1.1",
+                                                  "question": "List 10 recombinant proteins used in medical practice and their therapeutic applications.",
+                                                  "answer": [
+                                                    { "protein": "Human insulin", "use": "Diabetes" },
+                                                    { "protein": "Human growth hormone", "use": "Dwarfism cure" },
+                                                    { "protein": "Blood clotting factor VIII/IX", "use": "Haemophilia" },
+                                                    { "protein": "TPA (tissue plasminogen activator)", "use": "Heart attack/strokes" },
+                                                    { "protein": "PDGF (platelet derived growth factor)", "use": "Stimulates wound healing" },
+                                                    { "protein": "Interferon", "use": "Treatment of viral infection" },
+                                                    { "protein": "Interleukin", "use": "Enhances immune reaction" },
+                                                    { "protein": "Hepatitis B vaccine", "use": "Prevention of infectious disease" },
+                                                    { "protein": "Herpes Vaccine", "use": "Prevention of infectious disease" },
+                                                    { "protein": "DNase I", "use": "Treatment of cystic fibrosis" }
+                                                  ]
+                                                },
+                                                {
+                                                  "question_code": "11.1.2",
+                                                  "question": "Make a chart showing a restriction enzyme, its substrate DNA, its cut site, and the resulting product.",
+                                                  "answer": "Example: Restriction enzyme - BamHI. Acts on a specific DNA sequence and produces sticky ends."
+                                                },
+                                                {
+                                                  "question_code": "11.1.3",
+                                                  "question": "Which is larger in molecular size, enzymes or DNA? Explain.",
+                                                  "answer": "DNA is larger than enzymes because it is a polymer of nucleotides and contains genetic information that regulates protein synthesis."
+                                                },
+                                                {
+                                                  "question_code": "11.1.4",
+                                                  "question": "What is the molar concentration of human DNA in a human cell?",
+                                                  "answer": "The molar concentration of DNA in a human cell is approximately 2 mg/ml of cell extract."
+                                                },
+                                                {
+                                                  "question_code": "11.1.5",
+                                                  "question": "Do eukaryotic cells have restriction endonucleases? Justify your answer.",
+                                                  "answer": "No, eukaryotic cells do not have restriction endonucleases because their DNA is highly methylated, preventing restriction enzyme activity."
+                                                },
+                                                {
+                                                  "question_code": "11.1.6",
+                                                  "question": "What are the advantages of stirred tank bioreactors over shake flasks?",
+                                                  "answer": [
+                                                    "Allows periodic sampling of cultures.",
+                                                    "Has a foam control, pH control, and temperature control system.",
+                                                    "Ensures uniform mixing and oxygen availability."
+                                                  ]
+                                                },
+                                                {
+                                                  "question_code": "11.1.7",
+                                                  "question": "Give 5 examples of palindromic DNA sequences.",
+                                                  "answer": [
+                                                    "5'-GGATCC-3' / 3'-CCTAGG-5'",
+                                                    "5'-AAGCTT-3' / 3'-TTCGAA-5'",
+                                                    "5'-ACGCGT-3' / 3'-TGCGGA-5'",
+                                                    "5'-ACTAGT-3' / 3'-TGATCA-5'",
+                                                    "5'-AGGCCT-3' / 3'-TCCGGA-5'"
+                                                  ]
+                                                },
+                                                {
+                                                  "question_code": "11.1.8",
+                                                  "question": "At what stage of meiosis is recombinant DNA formed?",
+                                                  "answer": "Recombinant DNA is formed during the pachytene stage of prophase I due to crossing over."
+                                                },
+                                                {
+                                                  "question_code": "11.1.9",
+                                                  "question": "How can a reporter enzyme be used to monitor transformation of host cells by foreign DNA?",
+                                                  "answer": "A reporter enzyme, such as β-galactosidase (LacZ), can help differentiate transformed cells. Non-transformed cells appear blue, while transformed cells appear white."
+                                                },
+                                                {
+                                                  "question_code": "11.1.10",
+                                                  "question": "Briefly describe the following: (a) Origin of replication, (b) Bioreactors, (c) Downstream processing.",
+                                                  "answer":"The **origin of replication** is a DNA sequence where replication begins, controlling DNA copy number. **Bioreactors** are vessels that provide ideal conditions for converting raw materials into products via biological processes. **Downstream processing** involves steps to separate and purify biotechnological products before they are market-ready."
+                                                },
+                                                    {
+                                                      "question_code": "12.1.1",
+                                                      "question": "Crystals of Bt toxin produced by some bacteria do not kill the bacteria themselves because – (a) bacteria are resistant to the toxin (b) toxin is immature; (c) toxin is inactive; (d) bacteria encloses toxin in a special sac.",
+                                                      "answer": "(c) Toxin is inactive."
+                                                    },
+                                                    {
+                                                      "question_code": "12.1.2",
+                                                      "question": "What are transgenic bacteria? Illustrate using any one example.",
+                                                      "answer": "Bacteria having gene or genes usually from an unrelated organism incorporated into their genome are called transgenic bacteria. For example, when the human insulin gene is introduced into the isolated plasmid of E. coli bacterium and this recombinant DNA is transferred into a fresh bacterium, then the latter is said to be a transgenic or transformed bacterium."
+                                                    },
+                                                    {
+                                                      "question_code": "12.1.3",
+                                                      "question": "Compare and contrast the advantages and disadvantages of production of genetically modified crops.",
+                                                      "answer": "NCERT Solutions For Class 12 Biology Biotechnology and its Applications Q3"
+                                                    },
+                                                    {
+                                                      "question_code": "12.1.4",
+                                                      "question": "What are Cry proteins? Name an organism that produces it. How has man exploited this protein to his benefit?",
+                                                      "answer": "The bacterium Bacillus thuringiensis is a common soil bacterium that produces a protein toxin that kills certain insects. The toxin is a crystal (Cry) protein. There are several kinds of Cry proteins that are toxic to different groups of insects. The gene encoding Cry protein is called the cry gene. Biotechnologists have been able to isolate the gene responsible for the production of toxin and introduce it into a number of plants to produce genetically modified plants resistant to insects, e.g., Bt cotton (resistant to bollworm) and GM tobacco (resistant to hornworms)."
+                                                    },
+                                                    {
+                                                      "question_code": "12.1.5",
+                                                      "question": "What is gene therapy? Illustrate using the example of adenosine deaminase (ADA) deficiency.",
+                                                      "answer": "Gene therapy is the correction of a malfunctioning gene by repairing or adding the correct copy. ADA (adenosine deaminase deficiency) is a very rare genetic disorder due to the deletion of the gene for adenosine deaminase. The enzyme is crucial for the immune system to function. It can be treated by gene therapy. This gene is transfected into early embryonic cells of bone marrow for permanent use."
+                                                    },
+                                                    {
+                                                      "question_code": "12.1.6",
+                                                      "question": "Diagrammatically represent the experimental steps in cloning and expressing a human gene (say the gene for growth hormone) into a bacterium like E. coli.",
+                                                      "answer": "NCERT Solutions For Class 12 Biology Biotechnology and its Applications Q6"
+                                                    },
+                                                    {
+                                                      "question_code": "12.1.7",
+                                                      "question": "Can you suggest a method to remove oil (hydrocarbon) from seeds based on your understanding of rDNA technology and the chemistry of oil?",
+                                                      "answer": "The genes for the formation of oil in the seed should be identified. The appropriate genes should be removed with the help of restriction endonucleases. Such DNA should then be treated with DNA ligases to seal the broken ends. These cells, when grown aseptically on a nutrient medium, will differentiate into a new plant whose seeds will not have oil in them."
+                                                    },
+                                                    {
+                                                      "question_code": "12.1.8",
+                                                      "question": "Find out from the internet what golden rice is.",
+                                                      "answer": "Golden rice is a transgenic variety of rice (Oryza sativa) containing good quantities of β-carotene (provitamin A), which is the principal source of vitamin A. Since the grains of the rice are yellow in color due to β-carotene, the rice is commonly called golden rice. It was developed at the Swiss Federal Institute of Technology by Professor Ingo Potrykus and Peter Beyer."
+                                                    },
+                                                    {
+                                                      "question_code": "12.1.9",
+                                                      "question": "Does our blood have proteases and nucleases?",
+                                                      "answer": "No, blood does not have proteases and nucleases. If they were present, blood and cells would be digested. Some proteases do exist in an inactive form."
+                                                    },
+                                                    {
+                                                      "question_code": "12.1.10",
+                                                      "question": "Consult the internet and find out how to make orally active protein pharmaceuticals. What is the major problem encountered?",
+                                                      "answer": "An orally active protein product that is successfully manufactured is vaccines for the prevention of infectious diseases such as hepatitis B, herpes, influenza, etc. The genes for antigens are isolated from bacteria and grown along with cut leaf portions of potato plants in an antibiotic medium—followed by callus formation—and recombinant/transgenic potatoes are obtained that contain those vaccines."
+                                                    },
+                                                    
+                                                        {
+                                                          "question_code": "13.1.1",
+                                                          "question": "How is diapause different from hibernation?",
+                                                          "answer": "Diapause is a period of suspended growth or development occurring in many insects and other invertebrates during which metabolic activities are greatly reduced. On the other hand, hibernation is a sleep-like state in which a few animals, such as fishes and amphibians, pass the winter season as a way of surviving food scarcity and cold weather."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.2",
+                                                          "question": "If a marine fish is placed in a fresh water aquarium, will the fish be able to survive? Why or why not?",
+                                                          "answer": "When a marine fish is placed in a fresh water aquarium, the fish will not be able to survive because marine fish are adapted to live in saline seawater. In fresh water, it will not be able to cope with the outside hypotonic environment due to osmoregulation problems. In fresh water, the concentration of water increases, causing osmotic pressure to increase, and the fish will need to take in more water to survive, disturbing salt regulation."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.3",
+                                                          "question": "Define phenotypic adaptation. Give one example.",
+                                                          "answer": "Phenotypic adaptations are non-genetic changes occurring in living organisms due to extreme environmental conditions, such as stress, temperature changes, or habitat changes. Example: Acclimatization in humans at high altitudes."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.4",
+                                                          "question": "Most living organisms cannot survive at temperatures above 45°C. How are some microbes able to live in habitats with temperatures exceeding 100°C?",
+                                                          "answer": "Microorganisms in hot springs and sea-bed volcanoes can survive in high temperatures due to: (i) branched-chain lipids in their cell membranes that reduce fluidity, and (ii) having minimal free water in their bodies, providing resistance to heat."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.5",
+                                                          "question": "List the attributes that populations but not individuals possess.",
+                                                          "answer": "Some significant attributes that populations but not individuals possess include: (i) Natality, (ii) Mortality, (iii) Growth forms, (iv) Population density, (v) Population dispersion, (vi) Population age distribution, (vii) Sex ratio."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.6",
+                                                          "question": "If a population growing exponentially doubles in size in 3 years, what is the intrinsic rate of increase (r) of the population?",
+                                                          "answer": "If the population doubles in 3 years, the intrinsic rate of increase (r) will be the maximum possible growth rate, leading to exponential population growth."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.7",
+                                                          "question": "Name important defense mechanisms in plants against herbivory.",
+                                                          "answer": "Plants have evolved several defense mechanisms against herbivory, including the production of chemical toxins like nicotine, strychnine, and morphine, as well as physical defenses such as spines, thorns, and sharp-edged leaves."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.8",
+                                                          "question": "An orchid plant is growing on the branch of a mango tree. How do you describe this interaction between the orchid and the mango tree?",
+                                                          "answer": "The interaction between the orchid and the mango tree is an example of commensalism. The orchid benefits by gaining better access to light, while the mango tree is not harmed."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.9",
+                                                          "question": "What is the ecological principle behind the biological control method of managing pest insects?",
+                                                          "answer": "The ecological principle behind biological control is the predator-prey relationship, where a predator is used to regulate the population of pest insects."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.10",
+                                                          "question": "Distinguish between the following: (a) Hibernation and Aestivation, (b) Ectotherms and Endotherms",
+                                                          "answer": "(a) Hibernation is a state of dormancy in cold conditions, while aestivation occurs in response to hot and dry conditions. (b) Ectotherms rely on external sources to regulate body temperature, while endotherms can regulate their body temperature internally."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.11",
+                                                          "question": "Write a short note on (a) Adaptations of desert plants and animals, (b) Adaptations of plants to water scarcity, (c) Behavioral adaptations in animals, (d) Importance of light to plants, (e) Effect of temperature or water scarcity and the adaptations of animals.",
+                                                          "answer": "(a) Desert plants have small or no leaves and store water in succulent stems, while animals are smaller for better heat regulation. (b) Plants like Rhododendron show water scarcity by curling their leaves, while some accumulate inorganic ions. (c) Animals such as desert lizards regulate their temperature by seeking shade or sunlight. (d) Light affects photosynthesis, growth, and flowering in plants. (e) Animals are either poikilotherms or homeotherms, adapting to regulate their body temperature."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.12",
+                                                          "question": "List the various abiotic environmental factors.",
+                                                          "answer": "Abiotic factors include temperature, water, light, humidity, precipitation, and soil, all of which influence the survival and distribution of organisms."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.13",
+                                                          "question": "Give an example for: (a) An endothermic animal, (b) An ectothermic animal, (c) An organism of the benthic zone.",
+                                                          "answer": "(a) Human (Homo sapiens), (b) Black bear, (c) Corals."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.14",
+                                                          "question": "Define population and community.",
+                                                          "answer": "A population is a group of individuals of the same species living in a defined area. A community is an assemblage of different species living together in a specific area or habitat."
+                                                        },
+                                                        {
+                                                          "question_code": "13.1.15",
+                                                          "question": "Define the following terms and give one example for each: (a) Commensalism, (b) Parasitism, (c) Camouflage, (d) Mutualism, (e) Interspecific competition.",
+                                                          "answer": "(a) Commensalism is when one species benefits while the other is unaffected, e.g., E. coli bacteria in human intestines. (b) Parasitism is when one organism benefits at the expense of another, e.g., lice on humans. (c) Camouflage is when an animal resembles its surroundings to avoid predators, e.g., moths blending with tree bark. (d) Mutualism is a beneficial relationship for both species, e.g., bees pollinating flowers. (e) Interspecific competition occurs when different species compete for resources, e.g., plants competing for sunlight."
+                                                        },
+                                                        
+                                                            {
+                                                              "question_code": "14.1.1",
+                                                              "question": "Fill in the blanks. (a) Plants are called as———- because they fix carbon dioxide.",
+                                                              "answer": "Autotrophs"
+                                                            },
+                                                            {
+                                                              "question_code": "14.1.2",
+                                                              "question": "(b) In an ecosystem dominated by trees, the pyramid (of numbers) is———- type.",
+                                                              "answer": "Spindle"
+                                                            },
+                                                            {
+                                                              "question_code": "14.1.3",
+                                                              "question": "(c) In aquatic ecosystems, the limiting factor for the productivity is———- .",
+                                                              "answer": "Sunlight"
+                                                            },
+                                                            {
+                                                              "question_code": "14.1.4",
+                                                              "question": "(d) Common detritivores in our ecosystem are———- .",
+                                                              "answer": "Earthworm, bacteria & fungi of decay and vulture"
+                                                            },
+                                                            {
+                                                              "question_code": "14.1.5",
+                                                              "question": "(e) The major reservoir of carbon on earth is———- .",
+                                                              "answer": "Oceans"
+                                                            },
+                                                            {
+                                                              "question_code": "14.2.1",
+                                                              "question": "Which one of the following has the largest population in a food chain?",
+                                                              "answer": "Decomposers"
+                                                            },
+                                                            {
+                                                              "question_code": "14.3.1",
+                                                              "question": "The second trophic level in a lake is-",
+                                                              "answer": "Zooplankton"
+                                                            },
+                                                            {
+                                                              "question_code": "14.4.1",
+                                                              "question": "Secondary producers are",
+                                                              "answer": "None of the above"
+                                                            },
+                                                            {
+                                                              "question_code": "14.5.1",
+                                                              "question": "What is the percentage of photo synthetically active radiation (PAR), in the incident solar radiation?",
+                                                              "answer": "50%"
+                                                            },
+                                                            {
+                                                              "question_code": "14.6.1",
+                                                              "question": "Distinguish between Grazing food chain and detritus food chain",
+                                                              "answer": "Grazing Food Chain (GFC) begins with primary producers or plants and ends in carnivores (tertiary or top carnivores) whereas Detritus Food Chain (DFC) begins with detritus or dead organic matter and it ends in carnivores. In GFC, energy for the food chain comes from sun whereas in DFC, energy for the food chain comes from organic remains or detritus."
+                                                            },
+                                                            {
+                                                              "question_code": "14.6.2",
+                                                              "question": "Distinguish between Production and decomposition",
+                                                              "answer": "Production is the phenomenon in which the energy is produced by the process of synthesis of organic compound from inorganic substances (such as CO2, H2O & minerals) utilizing generally the sunlight. It traps energy. Decomposition refers to the breakdown of complex organic matter into simpler ones. It releases energy."
+                                                            },
+                                                            {
+                                                              "question_code": "14.6.3",
+                                                              "question": "Distinguish between Upright and inverted pyramid",
+                                                              "answer": "In upright pyramid (e.g., grassland & cropland ecosystem), biomass or number of organisms or amount of energy decreases on moving to upper trophic levels while in an inverted pyramid (e.g., tree ecosystem) these quantities tend to increase on going to successive trophic levels."
+                                                            },
+                                                            {
+                                                              "question_code": "14.6.4",
+                                                              "question": "Distinguish between Food chain and food web",
+                                                              "answer": "A food chain is a sequence of different types of organisms by which the flow of energy occurs from one trophic level to another whereas food web is the network of various food chains inter-connected to each other. Food webs increase adaptability and competitiveness of the organisms."
+                                                            },
+                                                            {
+                                                              "question_code": "14.6.5",
+                                                              "question": "Distinguish between Litter and detritus",
+                                                              "answer": "Litter is the dead organic material fallen on the surface of the soil like leaves, remains of animals and excreta. Detritus is the dead organic matter found below the soil surface which is eaten up by the detritivores or broken down by decomposers."
+                                                            },
+                                                            {
+                                                              "question_code": "14.6.6",
+                                                              "question": "Distinguish between Primary and secondary productivity",
+                                                              "answer": "Primary productivity is the rate of synthesis of biomass or energy fixation by the plants. It is comparatively quite high. Secondary productivity is the rate of synthesis of biomass by consumers (herbivores and carnivores). It is small and decreases with rise of trophic level."
+                                                            },
+                                                            {
+                                                              "question_code": "14.7.1",
+                                                              "question": "Describe the components of an ecosystem.",
+                                                              "answer": "The components of an ecosystem are as follows: Abiotic components or non-living components: These include inorganic substances or minerals (standing state or standing quality), organic substances, and different climatic conditions like temperature, pH, light, etc. Biotic components or living components: (a) Autotrophs or producers which have capacity to manufacture their own food or which can fix radiant energy of sun into chemical energy, e.g., green plants and photosynthetic bacteria. (b) Heterotrophs or consumers which are unable to manufacture their own food and depend upon other organisms for their food. These are of the following types: Primary consumers or herbivores which depend upon producers or green plants for their food. Secondary consumers or carnivores which live upon herbivores. Top consumers or top carnivores which live upon secondary consumers. (c) Decomposers or microconsumers decompose dead organic substances of producers and consumers into simple substances and thus continue mineral cycles, e.g., bacteria, fungi, actinomycetes etc."
+                                                            },
+                                                            {
+                                                              "question_code": "14.8.1",
+                                                              "question": "Define ecological pyramids and describe with examples, pyramids of number and biomass.",
+                                                              "answer": "Ecological pyramid is a graphical method to show the number of organisms or biomass or amount of energy present at different trophic levels. Pyramid of number: Number of individuals at each trophic level is shown in pyramid. The pyramid of number (for example of a grassland) is upright. In this, there is a decrease in the number of organisms starting from primary producers (plants) to top consumers (carnivores). Pyramid of biomass: Pyramid of biomass is a graphic representation of amount of biomass per unit area sequence-wise in rising trophic levels with producers at the base and top carnivores at the apex. Pyramids of biomass of a tree or grassland ecosystem are upright, and the pyramid of a pond ecosystem is inverted."
+                                                            },
+                                                            {
+                                                              "question_code": "14.9.1",
+                                                              "question": "What is primary productivity? Give brief description of factors that affect primary productivity.",
+                                                              "answer": "Primary productivity of an ecosystem is the amount of energy fixed or biomass synthesized by primary producers or green plants per unit area per unit time during photosynthesis. Factors affecting primary productivity are: -Plant species inhabiting a particular area -Sunlight -Temperature -Soil water -Nutrients. In deserts, sunlight is abundant, but water is scarce or nutrients are lacking. Therefore, in such areas, water & nutrients supply become the limiting factors."
+                                                            },
+                                                            {
+                                                              "question_code": "14.10.1",
+                                                              "question": "Define decomposition and describe the processes and products of decomposition.",
+                                                              "answer": "The process by which decomposers break down complex organic remains (dead plants, animal remains, and excretions) into inorganic substances like carbon dioxide, water, and nutrients is called decomposition. The important steps in the process of decomposition are fragmentation, leaching, catabolism, humification, and mineralisation. Detritivores (e.g., earthworm) break down detritus into smaller particles. This process is called fragmentation. By the process of leaching, water-soluble inorganic nutrients go down into the soil horizon and get precipitated as unavailable salts. Bacterial and fungal enzymes degrade detritus into simpler inorganic substances. The process is called as catabolism. All the above steps in decomposition operate simultaneously on the detritus. Humification and mineralisation occur during decomposition in the soil. Humification leads to accumulation of a dark coloured amorphous substance called humus that is highly resistant to microbial action and undergoes decomposition at an extremely slow rate. Being colloidal in nature it serves as a reservoir of nutrients. The humus is further degraded by some microbes and release of inorganic nutrients occurs by the process known as mineralisation."
+                                                            },
+                                                            {
+                                                              "question_code": "14.11.1",
+                                                              "question": "Give an account of energy flow in an ecosystem.",
+                                                              "answer": "Flow of energy in an ecosystem is unidirectional. The ultimate source of energy is the sun. The solar energy is captured by the green plants which utilize it in synthesizing their own food. The energy fixed by the green plants is transferred to herbivores which feed on them. The energy is then transferred to higher trophic levels (carnivores). At every step, considerable amount of energy is lost. According to 10% law, only 10% of total energy stored in a trophic level is transferred to the next trophic level of a food chain."
+                                                            },
+                                                            {
+                                                              "question_code": "14.12.1",
+                                                              "question": "Write important features of a sedimentary cycle in an ecosystem.",
+                                                              "answer": "The movement of nutrient elements through various components of an ecosystem takes place by a biogeochemical cycle. It is of 2 types – gaseous and sedimentary. A nutrient that does not enter the atmosphere easily is said to have a sedimentary cycle. Sedimentary cycle involves cycling of sulphur, phosphorus etc. which are located in earth’s crust. Phosphoruscycle is a typical sedimentary cycle."
+                                                            },
+                                                            
+                                                                {
+                                                                  "question_code": "15.1.1",
+                                                                  "question": "Name the three important components of biodiversity.",
+                                                                  "answer": "Three components of biodiversity are:\n(a) Genetic diversity\n(b) Species diversity\n(c) Ecological diversity"
+                                                                },
+                                                                {
+                                                                  "question_code": "15.2.1",
+                                                                  "question": "How do ecologists estimate the total number of species present in the world?",
+                                                                  "answer": "Ecologists estimate the total number of species present in the world by comparing species richness of some exhaustively studied groups between any two regions (tropics, temperate or polar regions). Species richness, as a measure of diversity, has been used by many ecologists. Species density or the number of species per m² is most commonly used to measure species richness. Species abundance and species proportional abundance based indices are some other alternative approaches to the measurement of diversity."
+                                                                },
+                                                                {
+                                                                  "question_code": "15.3.1",
+                                                                  "question": "Give three hypotheses for explaining why tropics show greatest levels of species richness.",
+                                                                  "answer": "(1) The tropical area has a more stable climate than temperate zones. Local species continue to live in the absence of natural disturbances.\n(2) Warm temperature and high humidity in most tropical areas provide favorable conditions for growth and survival of diverse species.\n(3) Tropical areas receive more solar energy over the year and thus tropical communities are more productive and can support a wide range of species."
+                                                                },
+                                                                {
+                                                                  "question_code": "15.4.1",
+                                                                  "question": "What is the significance of the slope of regression in a species-area relationship?",
+                                                                  "answer": "Slope of regression or regression coefficient makes it easier to measure species richness along an area. For a limited area like a country, it gives a constant value of 0.1 to 0.2 irrespective of the taxonomic group or region. It remains amazingly similar for all those small regions. On the contrary, for measuring species-area relationship over large areas like the entire continents, the slope of regression values range from 0.6 to 1.2."
+                                                                },
+                                                                {
+                                                                  "question_code": "15.5.1",
+                                                                  "question": "What are the major causes of species losses in a geographical region?",
+                                                                  "answer": "Species are lost in a geographical region due to natural disturbances like forest fires, famine, drought, and also due to human disturbance with over-plantation, habitat destruction, habitat displacement, over-specialization, intensive agriculture, and pollution."
+                                                                },
+                                                                {
+                                                                  "question_code": "15.6.1",
+                                                                  "question": "How is biodiversity important for ecosystem functioning?",
+                                                                  "answer": "Biodiversity is important for ecosystem functioning because:\n(1) It contributes to productivity.\n(2) It causes more efficient recycling of energy and matter.\n(3) It has many alternative pathways for survival under diverse conditions.\n(4) Rich biodiversity provides alternatives available at each trophic level. All organisms are linked in food chains and interact with their abiotic environment in such a way as to keep the natural cycles going and make the ecosystems self-sustaining units. Disappearance of any link in a food chain will not affect the ecosystem as other alternatives are there."
+                                                                },
+                                                                {
+                                                                  "question_code": "15.7.1",
+                                                                  "question": "What are sacred groves? What is their role in conservation?",
+                                                                  "answer": "Sacred forests or sacred groves are forest patches around places of worship which are held in high esteem by tribal communities. They are the most undisturbed forest patches which are often surrounded by highly degraded landscapes. They are found in several parts of India, e.g., Karnataka, Maharashtra, Rajasthan (Aravalli), Madhya Pradesh (Sarguja, Bastar), Kerala, Meghalaya. Temples built by tribals are found surrounded by deodar forests in Kumaon region, Jaintias and Khasjas in Meghalaya. Not a single branch is allowed to be cut from these forests. As a result many endemic species which are rare or have become extinct elsewhere can be seen to flourish here. Bishnois of Rajasthan protect Prosopis cineraria and Black Buck religiously. Some water bodies are also held sacred in certain places, e.g., Khecheopalri in Sikkim. Their aquatic flora and fauna are naturally preserved."
+                                                                },
+                                                                {
+                                                                  "question_code": "15.8.1",
+                                                                  "question": "Among the ecosystem services are control of floods and soil erosion. How is this achieved by the biotic components of the ecosystem?",
+                                                                  "answer": "Ecosystem services are products or benefits given by ecosystem processes to the environment for its purification, beauty, biodiversity, protection of natural resources, habitat to wildlife and tribals, protection of soils, CO2–O2 balance, retention of water against floods, drought, and pollution. Plants play a vital role in the control of floods and soil erosion. Their roots bind the soil particles firmly and in this way they do not allow the topsoil to be drifted away by winds or moving water. Roots of plants also make the soil porous and allow water to go into the soil."
+                                                                },
+                                                                {
+                                                                  "question_code": "15.9.1",
+                                                                  "question": "The species diversity of plants (22 per cent) is much less than that of animals (72 per cent). What could be the explanations to how animals achieved greater diversification?",
+                                                                  "answer": "Species diversity refers to the variety of species within a region which is less in plants as compared to animals. It is due to greater dispersal/more number of surviving individuals. Most animals possess a simple or complex nervous system to control and coordinate various activities. They possess receptors to receive stimuli. Most of their responses are adaptive and ensure their survival in changing environmental conditions. They, therefore, have evolved to reveal much higher species diversity than plants who do not possess a nervous system and respond differently to environmental stimuli."
+                                                                },
+                                                                {
+                                                                  "question_code": "15.10.1",
+                                                                  "question": "Can you think of a situation where we deliberately want to make a species extinct? How would you justify it?",
+                                                                  "answer": "Humans can cause extinction of species through various means. We are trying to eradicate disease-causing organisms (e.g., poliovirus) from this world to make this world disease-free. Since such micro-organisms are harmful to human society, such an attempt is justified. Further, such micro-organisms are not essential components (producers or decomposers) of any ecosystem, and losing one or a few such organisms would not affect the functioning of the ecosystem."
+                                                                },
+                                                                
+                                                                    {
+                                                                      "question_code": "16.1.1",
+                                                                      "question": "What are the various constituents of domestic sewage? Discuss the effects of sewage discharge on a river.",
+                                                                      "answer": "Domestic sewage contains four kinds of impurities: (i) Suspended solids: Soil particles such as sand and silt. (ii) Colloidal particles: Inorganic and organic materials such as faecal matter, bacteria, paper, and cloth. (iii) Dissolved solids: Nitrates, phosphates, ammonia, sodium, calcium, and other nutrients. (iv) Pathogens: Pathogens causing diseases such as typhoid, cholera, dysentery, and diarrhoea. Effects of sewage discharge on rivers include: (i) Eutrophication. (ii) Growth of pathogenic bacteria. (iii) Ageing of the river due to silt and decaying matter accumulation. (iv) Increase in BOD (Biochemical Oxygen Demand). (v) Destruction of flora and fauna in the river."
+                                                                    },
+                                                                    {
+                                                                      "question_code": "16.2.1",
+                                                                      "question": "List all the wastes that you generate at home, school, or during your trips to other places. Could you very easily reduce the generation of these wastes? Which would be difficult or rather impossible to reduce?",
+                                                                      "answer": "Waste materials generated at home: paper, disposable cups, cloth, plates, spoons, plastic envelopes, discarded food, etc. Waste materials generated at school: paper, chalks, plastic envelopes, etc. Waste materials generated during trips: paper, disposable cups, plates, spoons, plastic envelopes, discarded food, etc. Reducing waste generation is not easy, but certain wastes can be reduced. For example, food wastage (peels of potato, banana, etc.) is difficult to reduce but we can minimize food waste by better planning."
+                                                                    },
+                                                                    {
+                                                                      "question_code": "16.3.1",
+                                                                      "question": "Discuss the causes and effects of global warming. What measures need to be taken to control global warming?",
+                                                                      "answer": "Global warming is caused by an increase in the concentration of greenhouse gases, such as CO2, methane, and nitrous oxide, leading to a rise in Earth's temperature. Causes include: (i) Increased use of fossil fuels. (ii) Deforestation. (iii) Industrial emissions. (iv) Agricultural practices. Effects include: (i) Climate change, (ii) Rising sea levels, (iii) Loss of biodiversity, (iv) Extreme weather events. Measures to control global warming: (i) Reduce emissions of greenhouse gases. (ii) Use renewable energy sources. (iii) Promote afforestation. (iv) Develop alternatives to CFCs."
+                                                                    },
+                                                                    {
+                                                                      "question_code": "16.4.1",
+                                                                      "question": "Match the items given in column A and B:",
+                                                                      "answer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+                                                                    },
+                                                                    {
+                                                                      "question_code": "16.5.1",
+                                                                      "question": "Write critical notes on the following: (a) Eutrophication (b) Biological magnification (c) Groundwater depletion and ways for its replenishment",
+                                                                      "answer":"Eutrophication is the overgrowth of algae and plants in water bodies caused by excess nutrients, especially nitrogen and phosphorus, leading to a loss of biodiversity and chemical buildup in the food chain. Biological magnification refers to the increasing concentration of toxic substances, like pesticides, at higher trophic levels, which accumulate in organisms since they cannot be excreted. Groundwater depletion happens due to over-extraction, lowering the water table and requiring deeper wells. Replenishment can be achieved through rainwater harvesting, recharging wells, and reducing water usage."
+                                                                    },
+                                                                    {
+                                                                      "question_code": "16.6.1",
+                                                                      "question": "Why does the ozone hole form over Antarctica? How will enhanced ultraviolet radiation affect us?",
+                                                                      "answer": "The ozone hole forms over Antarctica due to the presence of chlorine compounds from CFCs, which break down ozone molecules. These compounds accumulate in the atmosphere during winter months, and when the sun returns in spring, the ozone is depleted. The effects of enhanced UV radiation include: (i) Skin cancer, (ii) Eye cataracts, (iii) Weakened immune system, (iv) Mutations in organisms."
+                                                                    },
+                                                                    {
+                                                                      "question_code": "16.7.1",
+                                                                      "question": "Discuss the role of women and communities in protection and conservation of forests.",
+                                                                      "answer": "Women and local communities play a key role in forest conservation through initiatives such as the Chipko movement, where people (especially women) have been involved in protecting trees from deforestation. Their traditional knowledge and sustainable practices are essential for forest management and biodiversity conservation."
+                                                                    },
+                                                                    {
+                                                                      "question_code": "16.8.1",
+                                                                      "question": "What measures, as an individual, would you take to reduce environmental pollution?",
+                                                                      "answer": "Individuals can reduce environmental pollution by: (i) Reducing the use of plastics. (ii) Recycling materials. (iii) Planting trees. (iv) Using public transport to reduce emissions. (v) Proper waste disposal. (vi) Minimizing food waste."
+                                                                    },
+                                                                    {
+                                                                      "question_code": "16.9.1",
+                                                                      "question": "Discuss briefly the following: (a) Radioactive wastes (b) Defunct ships and e-wastes (c) Municipal solid wastes",
+                                                                      "answer":"Radioactive wastes from nuclear reactors pose serious health risks like cancer and birth defects due to radiation. Defunct ships contain hazardous materials like asbestos and mercury, which can harm both human health and the environment when dismantled improperly. E-waste, made up of discarded electronics, contains toxic chemicals but can be recycled properly to avoid harm. Municipal solid waste, which includes everyday items like paper, plastics, and food scraps, requires proper management through reduction, recycling, and composting to minimize environmental impact."
+                                                                    },
+                                                                    {
+                                                                      "question_code": "16.10.1",
+                                                                      "question": "What initiatives were taken for reducing vehicular air pollution in Delhi? Has air quality improved in Delhi?",
+                                                                      "answer": "The initiatives taken in Delhi include: (i) Introduction of CNG (Compressed Natural Gas). (ii) Enforcement of pollution control laws. (iii) Use of unleaded fuels. (iv) Replacement of old vehicles with new ones. (v) Introduction of catalytic converters in vehicles. As a result, air quality in Delhi has improved, with a significant reduction in pollutant gases."
+                                                                    },
+                                                                    {
+                                                                      "question_code": "16.11.1",
+                                                                      "question": "Discuss briefly the following: (a) Greenhouse gases (b) Catalytic converter (c) Ultraviolet B",
+                                                                      "answer":"Greenhouse gases, such as carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O), play a significant role in trapping heat within the Earth's atmosphere, contributing to the phenomenon of global warming. These gases allow sunlight to enter but prevent the heat from escaping, thus raising the Earth's temperature and leading to climate changes. A catalytic converter, which is installed in vehicles, helps reduce the emission of harmful gases like carbon monoxide and nitrogen oxides, which are pollutants that contribute to air pollution and smog. The device facilitates chemical reactions that transform these toxic gases into less harmful substances, such as carbon dioxide and nitrogen. Ultraviolet B (UVB) radiation from the sun, although essential for the production of vitamin D, can also cause significant skin damage. Prolonged exposure to UVB radiation can lead to skin burns, premature aging, and an increased risk of skin cancers, such as melanoma."
+                                                                      }
+
+                                                                    
+                                                                  
+                                                                  
+                                                              
+                                                              
+
+
+
+
+
+
+
+
+                                                            
+                                                            
+                                                      
+                                                      
+                                                  
+                                                  
+                                                
+                                              
+                                              
+                                          
+                                        
+                                      
+                                  
+                                
+                              
+                              
+                        
+                        
+                        
+                    
+                    
+        
+        
+        
+    ]
+    
