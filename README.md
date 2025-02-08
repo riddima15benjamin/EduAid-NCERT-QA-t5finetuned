@@ -42,8 +42,6 @@ cd eduaid
 ```
 Load the Model and Dataset
 
-Place the trained T5 model inside the ./model directory.
-
 Ensure final_dataset.json exists in the project root.
 
 Run the Application
