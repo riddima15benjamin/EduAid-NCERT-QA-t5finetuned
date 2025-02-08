@@ -1,9 +1,9 @@
-## EduAid - NCERT Textbook Solutions Web App
+# EduAid - NCERT Textbook Solutions Web App
 
-# About 
+## About 
 EduAid is a web application built using Flask that provides chapter-wise, question-specific answers for NCERT Class 11 and 12 subjects. The app uses a T5-Huggingface model for answer generation and retrieval from a pre-built custom dataset.
 
-# Features
+## Features
 
 📚 Subject Selection: Choose from Class 11 & 12 NCERT subjects (Biology, Chemistry, Physics).
 
@@ -15,7 +15,7 @@ EduAid is a web application built using Flask that provides chapter-wise, questi
 
 ⚡ Fast Lookups: Preloaded dataset for quick and efficient answer retrieval.
 
-# Technologies Used
+## Technologies Used
 
 Python 
 
